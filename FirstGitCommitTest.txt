@@ -1,3 +1,4 @@
 My First Commit Test 시험연습용
 Second Commit 시험연습용 
 이번엔 메모장에서 수정하지 않고 vscode에서 바로로
+이건 세컨파일만들고 처음파일 클론떠와서(복사본)만든거에 추가하는거거
