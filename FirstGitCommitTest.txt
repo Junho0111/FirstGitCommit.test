@@ -1,1 +1,3 @@
 My First Commit Test 시험연습용
+Second Commit 시험연습용 
+이번엔 메모장에서 수정하지 않고 vscode에서 바로로
